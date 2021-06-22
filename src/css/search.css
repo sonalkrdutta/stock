@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://cdn.hipwallpaper.com/i/83/93/nvNV14.jpg");
+  height: 100vh;
+}
+.form {
+  position: relative;
+}
+/* .SearchIcon {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #9ca3af;
+} */
+.form span {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  color: #000000;
+}
+.form-input {
+  height: 55px;
+  text-indent: 33px;
+  border-radius: 30px;
+  background-color: transparent;
+}
+.form-input:focus {
+  box-shadow: none;
+  border: none;
+}
+.list-group-item {
+  background-color: transparent;
+  color: aliceblue;
+}
